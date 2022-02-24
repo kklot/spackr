@@ -1,5 +1,10 @@
 # spackr
-additional/custom R packages for spack
+additional/custom R packages for spack, e.g., 
+
+- [x] TMB
+- [ ] INLA
+- [ ] eppasm
+- [ ] naomi
 
 ## How to:
 
