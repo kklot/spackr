@@ -2,7 +2,7 @@
 additional/custom R packages for spack, e.g., 
 
 - [x] TMB
-- [ ] INLA
+- [x] INLA
 - [ ] eppasm
 - [ ] naomi
 
